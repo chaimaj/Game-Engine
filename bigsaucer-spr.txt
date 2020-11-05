@@ -1,0 +1,20 @@
+frames 5
+width 7
+height 2
+color red
+\__|__/
+/_____\
+end
+\__/__/
+/____o\
+end
+\__/__/
+/__o__\
+end
+\__\__/
+/_o___\
+end
+\__\__/
+/o____\
+end
+eof

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Box.h</itemPath>
+      <itemPath>Clock.h</itemPath>
+      <itemPath>Event.h</itemPath>
+      <itemPath>EventCollision.h</itemPath>
+      <itemPath>EventKeyboard.h</itemPath>
+      <itemPath>EventMouse.h</itemPath>
+      <itemPath>EventOut.h</itemPath>
+      <itemPath>EventStep.h</itemPath>
+      <itemPath>EventView.h</itemPath>
+      <itemPath>Frame.h</itemPath>
+      <itemPath>GameManager.h</itemPath>
+      <itemPath>GraphicsManager.h</itemPath>
+      <itemPath>InputManager.h</itemPath>
+      <itemPath>LogManager.h</itemPath>
+      <itemPath>Manager.h</itemPath>
+      <itemPath>Object.h</itemPath>
+      <itemPath>ObjectCollider.h</itemPath>
+      <itemPath>ObjectList.h</itemPath>
+      <itemPath>ObjectListIterator.h</itemPath>
+      <itemPath>ObjectTest.h</itemPath>
+      <itemPath>Position.h</itemPath>
+      <itemPath>ResourceManager.h</itemPath>
+      <itemPath>Sprite.h</itemPath>
+      <itemPath>Star.h</itemPath>
+      <itemPath>ViewObject.h</itemPath>
+      <itemPath>WorldManager.h</itemPath>
+      <itemPath>utility.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Box.cpp</itemPath>
+      <itemPath>Clock.cpp</itemPath>
+      <itemPath>Event.cpp</itemPath>
+      <itemPath>EventCollision.cpp</itemPath>
+      <itemPath>EventKeyboard.cpp</itemPath>
+      <itemPath>EventMouse.cpp</itemPath>
+      <itemPath>EventOut.cpp</itemPath>
+      <itemPath>EventStep.cpp</itemPath>
+      <itemPath>EventView.cpp</itemPath>
+      <itemPath>Frame.cpp</itemPath>
+      <itemPath>GameManager.cpp</itemPath>
+      <itemPath>GraphicsManager.cpp</itemPath>
+      <itemPath>InputManager.cpp</itemPath>
+      <itemPath>LogManager.cpp</itemPath>
+      <itemPath>Manager.cpp</itemPath>
+      <itemPath>Object.cpp</itemPath>
+      <itemPath>ObjectCollider.cpp</itemPath>
+      <itemPath>ObjectList.cpp</itemPath>
+      <itemPath>ObjectListIterator.cpp</itemPath>
+      <itemPath>ObjectTest.cpp</itemPath>
+      <itemPath>Position.cpp</itemPath>
+      <itemPath>ResourceManager.cpp</itemPath>
+      <itemPath>Sprite.cpp</itemPath>
+      <itemPath>Star.cpp</itemPath>
+      <itemPath>ViewObject.cpp</itemPath>
+      <itemPath>WorldManager.cpp</itemPath>
+      <itemPath>game.cpp</itemPath>
+      <itemPath>utility.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="Box.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Box.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Clock.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Clock.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Event.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Event.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventCollision.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventCollision.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventKeyboard.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventKeyboard.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventMouse.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventMouse.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventOut.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventOut.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventStep.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventStep.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventView.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventView.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Frame.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Frame.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GameManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GameManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GraphicsManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GraphicsManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="InputManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="InputManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LogManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LogManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Manager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Manager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Object.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ObjectCollider.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ObjectCollider.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ObjectList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ObjectList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ObjectListIterator.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ObjectListIterator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ObjectTest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ObjectTest.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Position.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Position.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Sprite.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Sprite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Star.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Star.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ViewObject.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ViewObject.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="WorldManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="WorldManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utility.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utility.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Box.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Box.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Clock.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Clock.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Event.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Event.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventCollision.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventCollision.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventKeyboard.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventKeyboard.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventMouse.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventMouse.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventOut.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventOut.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventStep.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventStep.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EventView.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EventView.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Frame.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Frame.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GameManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GameManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GraphicsManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GraphicsManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="InputManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="InputManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LogManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LogManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Manager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Manager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Object.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ObjectCollider.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ObjectCollider.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ObjectList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ObjectList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ObjectListIterator.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ObjectListIterator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ObjectTest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ObjectTest.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Position.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Position.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ResourceManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Sprite.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Sprite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Star.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Star.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ViewObject.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ViewObject.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="WorldManager.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="WorldManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utility.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utility.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
